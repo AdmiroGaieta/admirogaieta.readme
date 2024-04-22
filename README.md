@@ -15,7 +15,7 @@ Desenvolvedor back-end especializado em C# com .NET e Spring Boot, focado em con
 - **Práticas de Código e Design:** Clean Architecture, SOLID, DDD, TDD
 - **DevOps e CI/CD:** GitHub Actions, Docker
 
-<img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> <img src="https://img.icons8.com/color/48/000000/dot-net.png"/> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/> <img src="https://img.icons8.com/color/48/000000/entity-framework.png"/> <img src="https://img.icons8.com/color/48/000000/hibernate.png"/> <img src="https://img.icons8.com/color/48/000000/idea.png"/> <img src="https://img.icons8.com/color/48/000000/solid-principles.png"/> <img src="https://img.icons8.com/color/48/000000/domain.png"/> <img src="https://img.icons8.com/color/48/000000/unit-test.png"/> <img src="https://img.icons8.com/material-outlined/48/000000/github.png"/> <img src="https://img.icons8.com/windows/32/000000/docker.png"/>
+<img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>   <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>   <img src="https://img.icons8.com/color/48/000000/hibernate.png"/> <img src="https://img.icons8.com/color/48/000000/idea.png"/>   <img src="https://img.icons8.com/color/48/000000/domain.png"/> <img src="https://img.icons8.com/material-outlined/48/000000/github.png"/> <img src="https://img.icons8.com/windows/32/000000/docker.png"/>
 
 
 ## 📈 Estatísticas GitHub
