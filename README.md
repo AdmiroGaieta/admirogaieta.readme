@@ -25,9 +25,10 @@ Desenvolvedor back-end especializado em C# com .NET e Spring Boot, focado em con
 ## 📫 Como me encontrar
 
 - **LinkedIn:** [Admiro Gaieta](https://www.linkedin.com/in/admiro-gaieta-0a1739188/) [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="24"/>](https://www.linkedin.com/in/admiro-gaieta-0a1739188/)
-- **GitHub:** [Admiro Gaieta](https://github.com/AdmiroGaieta) [<img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="24"/>](https://github.com/AdmiroGaieta)
+- **GitHub:** [Admiro Gaieta](https://github.com/AdmiroGaieta) [<img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="28"/>](https://github.com/AdmiroGaieta)
 - **Docker Hub:** [Admiro Gaieta](https://hub.docker.com/repositories/admiro) [<img src="https://img.icons8.com/color/48/000000/docker.png" width="24"/>](https://hub.docker.com/repositories/admiro)
 - **E-mail:** mirogaieta100@gmail.com [<img src="https://img.icons8.com/color/48/000000/gmail.png" width="24"/>](mailto:mirogaieta100@gmail.com)
+
 
 
 ## 🌐 Projetos em Destaque
