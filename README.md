@@ -17,7 +17,7 @@ Desenvolvedor back-end especializado em C# com .NET e Spring Boot, focado em con
 
 ## 📈 Estatísticas GitHub
 
-![Admiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=admiregaieta&show_icons=true&theme=radical)
+![Admiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=admirogaieta&show_icons=true&theme=radical)
 
 ## 📫 Como me encontrar
 
